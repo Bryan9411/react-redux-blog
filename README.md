@@ -1,7 +1,7 @@
 # SPA 部落格
  以 React 開發的 SPA Blog，註冊用戶可以檢視、新增、編輯及刪除文章。
  
- [DEMO](https://bryan9411.github.io/react_blog/#/)
+ [DEMO](https://bryan9411.github.io/react-redux-blog/#/)
  
  [JSON Server API](https://lidemy-blog-api.herokuapp.com)
  
