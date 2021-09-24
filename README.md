@@ -3,7 +3,7 @@
  
  [DEMO](https://bryan9411.github.io/react-redux-blog/#/)
  
- [JSON Server API](https://lidemy-blog-api.herokuapp.com)
+ [JSON Server API](https://lidemy-api.herokuapp.com)
  
 ## 技術
 
